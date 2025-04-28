@@ -1,0 +1,49 @@
+{
+  "home": {
+    "hero": {
+      "title": "Soluciones de Energía Solar",
+      "subtitle": "Diseño Profesional de Sistemas Solares y Cálculos",
+      "cta": "Comenzar Cálculo"
+    },
+    "features": {
+      "title": "Características de Nuestro Software",
+      "subtitle": "Herramientas completas de diseño solar para profesionales",
+      "items": {
+        "design": "Herramientas de Diseño Profesional",
+        "calculations": "Cálculos Precisos",
+        "reporting": "Informes Detallados",
+        "support": "Soporte 24/7"
+      }
+    },
+    "blog": {
+      "title": "Últimas Noticias Solares",
+      "readMore": "Leer Más"
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última Actualización",
+    "sections": {
+      "collection": "Recopilación de Información",
+      "usage": "Uso de la Información",
+      "sharing": "Compartir Información",
+      "security": "Seguridad de Datos"
+    }
+  },
+  "terms": {
+    "title": "Términos y Condiciones",
+    "sections": {
+      "usage": "Términos de Uso",
+      "account": "Términos de Cuenta",
+      "payment": "Términos de Pago",
+      "liability": "Responsabilidad"
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "learnMore": "Aprende Más",
+    "getStarted": "Empezar"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "home": {
+    "hero": {
+      "title": "Solar Energy Solutions",
+      "subtitle": "Professional Solar System Design and Calculations",
+      "cta": "Start Calculating"
+    },
+    "features": {
+      "title": "Our Software Features",
+      "subtitle": "Comprehensive solar design tools for professionals",
+      "items": {
+        "design": "Professional Design Tools",
+        "calculations": "Accurate Calculations",
+        "reporting": "Detailed Reports",
+        "support": "24/7 Support"
+      }
+    },
+    "blog": {
+      "title": "Latest Solar News",
+      "readMore": "Read More"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "informationCollection": {
+      "title": "Information Collection",
+      "description": "We collect information about you when you use our services and interact with our website.",
+      "items": {
+        "personal": "Personal information such as name, email, and address",
+        "usage": "Usage data and preferences",
+        "technical": "Technical information about your device and connection"
+      }
+    },
+    "informationUse": {
+      "title": "How We Use Your Information",
+      "description": "We use the collected information for various purposes:",
+      "purposes": {
+        "0": "To provide and maintain our services",
+        "1": "To notify you about changes to our services",
+        "2": "To provide customer support",
+        "3": "To detect and prevent fraud",
+        "4": "To improve our services"
+      }
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "description": "We implement appropriate security measures to protect your personal information."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "description": "We use cookies and similar tracking technologies to enhance your browsing experience."
+    },
+    "thirdParty": {
+      "title": "Third-Party Services",
+      "description": "We may use third-party services that collect, monitor and analyze data."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "description": "You have certain rights regarding your personal data:",
+      "items": {
+        "0": "Right to access your personal data",
+        "1": "Right to correct inaccurate data",
+        "2": "Right to request deletion of your data",
+        "3": "Right to restrict processing of your data"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "If you have any questions about this Privacy Policy, please contact us."
+    },
+    "updates": {
+      "title": "Updates to This Policy",
+      "description": "We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page.",
+      "lastUpdated": "Last updated: {{date}}"
+    }
+  },
+  "terms": {
+    "title": "Terms and Conditions",
+    "sections": {
+      "usage": "Usage Terms",
+      "account": "Account Terms",
+      "payment": "Payment Terms",
+      "liability": "Liability"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started"
+  }
+}
